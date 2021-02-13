@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<markusgerman>&theme=<THEME_NAME>" />
-
 ## &#x1f4c8; Stats
 
 <a href="https://github.com/markusgerman/markusgerman">
