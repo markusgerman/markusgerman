@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there! <img src="https://www.flaticon.com/svg/vstatic/svg/3930/3930415.svg?token=exp=1613179017~hmac=56de96ef69934415f9be8eb3e4304c94" width="30px">
 
 
 ## 🔧 Technologies & Tools
