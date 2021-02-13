@@ -6,6 +6,8 @@
 
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; Stats
 
 <a href="https://github.com/markusgerman/markusgerman">
