@@ -6,3 +6,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<markusgerman>&theme=<THEME_NAME>" />
 
+## &#x1f4c8; Stats
