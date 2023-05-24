@@ -1,8 +1,4 @@
-# Hello, there! <img src="https://www.flaticon.com/svg/vstatic/svg/3930/3930415.svg?token=exp=1613179017~hmac=56de96ef69934415f9be8eb3e4304c94" width="30px">
-
-my name is markus and iam a professionel html programmer<br>
--currently working at [myconsult GmbH](https://myconsult.de/de)
-
+professionel html programmer<br>
 
 ## 🔧 Technologies & Tools
 
